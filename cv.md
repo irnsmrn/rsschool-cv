@@ -7,7 +7,8 @@
 #### __Telegram/Discord:__ @irnsmrn
 ---
 ### About Me:
-I'm 32 years old. I am currently working as a lawyer and now I would like to change my life. I want to get knowledge and skills of JS Frontend. Wish me luck on this :)
+##### _I'm 32 years old. I am currently working as a lawyer and now I would like to change my life. I want to get knowledge and skills of JS Frontend. Wish me luck on this :)_
+
 ---
 ### My skills:
 * HTML5, CSS3
@@ -17,9 +18,11 @@ I'm 32 years old. I am currently working as a lawyer and now I would like to cha
 ---
 ### Code Examples:
 '''
+
 function multiply(a, b){
   return a * b
 }
+
 '''
 ---
 ### Languages:
