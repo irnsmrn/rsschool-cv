@@ -16,14 +16,14 @@
 * VS Code
 * Figma
 ---
-### Code Examples:
-'''
 
+### Code Examples:
+```
 function multiply(a, b){
   return a * b
 }
+```
 
-'''
 ---
 ### Languages:
 - Russin - native
