@@ -1,1 +1,1 @@
-CV
+https://irnsmrn.github.io/rsschool-cv/cv
